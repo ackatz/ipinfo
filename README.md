@@ -1,5 +1,3 @@
-[![Deploy to Fly](https://github.com/ackatz/ipinfo/actions/workflows/cd.yaml/badge.svg)](https://github.com/ackatz/ipinfo/actions/workflows/cd.yaml)
-
 # ipinfo
 
 Tiny FastAPI app for getting your ip / country / city info
